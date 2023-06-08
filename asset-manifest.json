@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.356b7f50.css",
+    "main.js": "/static/js/main.7a4b4f17.js",
+    "static/media/wilwin_logo-1-removebg-preview (1).png": "/static/media/wilwin_logo-1-removebg-preview (1).f2ce1c7549eea75e01d8.png",
+    "index.html": "/index.html",
+    "main.356b7f50.css.map": "/static/css/main.356b7f50.css.map",
+    "main.7a4b4f17.js.map": "/static/js/main.7a4b4f17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.356b7f50.css",
+    "static/js/main.7a4b4f17.js"
+  ]
+}
